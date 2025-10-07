@@ -30,7 +30,7 @@
     <div id="status">Start typing the code anywhere on the page...</div>
 
     <div id="secretMessage">
-        🥳 **CHEAT CODE ACTIVATED! SECRET POWER UNLOCKED!** 🥳
+    
     </div>
 
     <script>
